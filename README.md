@@ -1,4 +1,4 @@
-# Vue.js 框架最为核心的 Virtual DOM 是如何实现的？> 【作业】测一测 + 练一练
+# 【作业】Vue.js 框架最为核心的 Virtual DOM 是如何实现的？
 
 ### 下面关于虚拟 DOM 的说法正确的是：D
 ### 下面关于 Snabbdom 库的描述错误的是：D
